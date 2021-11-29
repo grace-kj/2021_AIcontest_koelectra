@@ -1,0 +1,4251 @@
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 2
+  learning_rate = 0.000005
+  Gradient Accumulation steps = 1
+  Total optimization steps = 12831
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.46714285714285714
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.46714285714285714
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.58
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5485714285714286
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5585714285714286
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5814285714285714
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5814285714285714
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5714285714285714
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5985714285714285
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5585714285714286
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6142857142857143
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.64
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6628571428571428
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6728571428571428
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6914285714285714
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6871428571428572
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6885714285714286
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7071428571428572
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6957142857142857
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.71
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7157142857142857
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7228571428571429
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7285714285714285
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7314285714285714
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.73
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7214285714285714
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (3300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7257142857142858
+***** Running evaluation on dev dataset (3400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (3500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (3600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (3700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (3800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (3900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (4000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (4100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (4200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (4300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (4400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (4500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (4600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (4700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (4800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (4900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (5000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (5100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (5200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (5300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (5400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (5500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (5600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (5700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (5800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (5900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (6000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (6100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (6200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (6300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (6400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (6500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (6600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (6700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (6800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (6900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7671428571428571
+***** Running evaluation on dev dataset (7000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (7100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (7200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (7300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (7400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (7500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (7600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7371428571428571
+***** Running evaluation on dev dataset (7700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (7800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (7900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (8000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (8100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7742857142857142
+***** Running evaluation on dev dataset (8200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (8300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (8400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (8500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (8600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (8700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (8800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (8900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (9000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (9100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (9200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (9300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (9400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (9500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (9600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (9700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (9800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (9900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (10000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (10100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (10200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (10300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (10400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (10500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (10600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (10700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (10800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7771428571428571
+***** Running evaluation on dev dataset (10900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (11000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (11100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (11200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (11300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (11400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7757142857142857
+***** Running evaluation on dev dataset (11500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (11600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (11700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (11800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (11900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (12000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (12100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (12200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7742857142857142
+***** Running evaluation on dev dataset (12300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (12400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (12500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7757142857142857
+***** Running evaluation on dev dataset (12600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7757142857142857
+***** Running evaluation on dev dataset (12700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7757142857142857
+***** Running evaluation on dev dataset (12800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+ global_step = 12831, average loss = 0.4611956254125882
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 2
+  learning_rate = 0.000010
+  Gradient Accumulation steps = 1
+  Total optimization steps = 12831
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5042857142857143
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4642857142857143
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5542857142857143
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5557142857142857
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.55
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6371428571428571
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6571428571428571
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.68
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5842857142857143
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6814285714285714
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7071428571428572
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7028571428571428
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7085714285714285
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7071428571428572
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.72
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7285714285714285
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7242857142857143
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6942857142857143
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7314285714285714
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7242857142857143
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7228571428571429
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (3300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (3400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (3500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (3600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (3700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (3800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (3900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (4000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (4100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (4200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (4300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (4400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (4500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (4600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (4700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (4800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7671428571428571
+***** Running evaluation on dev dataset (4900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (5000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (5100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (5200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (5300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (5400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7285714285714285
+***** Running evaluation on dev dataset (5500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (5600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (5700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (5800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7271428571428571
+***** Running evaluation on dev dataset (5900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7271428571428571
+***** Running evaluation on dev dataset (6000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (6100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.73
+***** Running evaluation on dev dataset (6200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7371428571428571
+***** Running evaluation on dev dataset (6300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (6400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (6500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7371428571428571
+***** Running evaluation on dev dataset (6600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (6700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (6800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (6900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (7000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (7100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (7200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (7300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (7400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (7500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (7600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (7700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (7800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (7900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (8000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (8100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (8200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (8300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (8400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (8500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (8600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (8700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7371428571428571
+***** Running evaluation on dev dataset (8800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (8900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.73
+***** Running evaluation on dev dataset (9000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (9100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (9200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (9300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (9400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (9500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (9600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (9700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (9800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (9900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (10000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (10100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (10200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (10300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (10400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (10500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (10600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (10700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (10800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (10900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (11000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (11100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (11200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (11300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (11400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (11500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (11600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (11700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (11800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (11900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (12000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (12100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (12200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (12300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (12400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (12500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (12600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (12700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (12800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+ global_step = 12831, average loss = 0.3360217958406376
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 2
+  learning_rate = 0.000020
+  Gradient Accumulation steps = 1
+  Total optimization steps = 12831
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.47285714285714286
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.55
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.47285714285714286
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5328571428571428
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.47
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (3300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (3400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (4100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (4200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (4700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (4800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (5100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (5200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (5900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (6700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (7100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (7200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (7300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (7800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5428571428571428
+***** Running evaluation on dev dataset (7900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5814285714285714
+***** Running evaluation on dev dataset (8000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5028571428571429
+***** Running evaluation on dev dataset (8100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (8500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (8600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (8900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (9000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (9200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (9500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (9600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (10000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (10800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (10900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (11000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (11300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (11700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (12700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (12800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+ global_step = 12831, average loss = 0.6955617098488316
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 2
+  learning_rate = 0.000050
+  Gradient Accumulation steps = 1
+  Total optimization steps = 12831
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (3300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (3400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (3900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (4100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (4600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (4700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (5200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (5600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (5900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (6400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (6700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (7100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (7200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (7300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (7800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (7900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (8100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (8500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (8600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (9000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (9100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (9200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (9500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (9600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (10000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (10800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (11000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (11300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (11700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+ global_step = 12831, average loss = 0.6970264740725503
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 4
+  learning_rate = 0.000005
+  Gradient Accumulation steps = 1
+  Total optimization steps = 6419
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4785714285714286
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5071428571428571
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5614285714285714
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5028571428571429
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5657142857142857
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5842857142857143
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6028571428571429
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6342857142857142
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6657142857142857
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6742857142857143
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6914285714285714
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7071428571428572
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7114285714285714
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7214285714285714
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.72
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.73
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7242857142857143
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (3300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (3400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (3500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (3600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (3700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (3800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (3900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (4000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (4100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (4200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (4300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (4400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (4500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (4600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (4700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (4800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (4900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7671428571428571
+***** Running evaluation on dev dataset (5000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (5100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (5200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (5300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (5400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (5500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (5600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7671428571428571
+***** Running evaluation on dev dataset (5700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (5800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (5900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (6000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (6100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (6200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (6300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (6400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+ global_step = 6419, average loss = 0.4299949279906596
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 4
+  learning_rate = 0.000010
+  Gradient Accumulation steps = 1
+  Total optimization steps = 6419
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4642857142857143
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5271428571428571
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5371428571428571
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5742857142857143
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6142857142857143
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6542857142857142
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6857142857142857
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7028571428571428
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7271428571428571
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7257142857142858
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.71
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7671428571428571
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (3300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (3400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (3500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (3600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (3700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (3800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7742857142857142
+***** Running evaluation on dev dataset (3900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7771428571428571
+***** Running evaluation on dev dataset (4000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (4100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (4200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (4300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (4400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (4500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7814285714285715
+***** Running evaluation on dev dataset (4600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (4700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (4800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (4900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (5000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (5100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (5200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (5300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (5400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (5500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (5600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (5700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (5800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7742857142857142
+***** Running evaluation on dev dataset (5900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (6000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7757142857142857
+***** Running evaluation on dev dataset (6100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (6200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (6300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (6400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+ global_step = 6419, average loss = 0.32449442361527137
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 4
+  learning_rate = 0.000020
+  Gradient Accumulation steps = 1
+  Total optimization steps = 6419
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5314285714285715
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5314285714285715
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.47285714285714286
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5914285714285714
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5642857142857143
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5914285714285714
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6328571428571429
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6485714285714286
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6642857142857143
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.69
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7157142857142857
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.72
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.73
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7157142857142857
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7371428571428571
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7314285714285714
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7185714285714285
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7257142857142858
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7314285714285714
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (3300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7314285714285714
+***** Running evaluation on dev dataset (3400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (3500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (3600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (3700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (3800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (3900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (4000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7371428571428571
+***** Running evaluation on dev dataset (4100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7285714285714285
+***** Running evaluation on dev dataset (4200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (4300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (4400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (4500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (4600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (4700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7271428571428571
+***** Running evaluation on dev dataset (4800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (4900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (5000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (5100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (5200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 2
+  learning_rate = 0.000005
+  Gradient Accumulation steps = 1
+  Total optimization steps = 12831
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.46714285714285714
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.46714285714285714
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.58
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5485714285714286
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5585714285714286
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5814285714285714
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5814285714285714
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5714285714285714
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5985714285714285
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5585714285714286
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6142857142857143
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.64
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6628571428571428
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6728571428571428
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6914285714285714
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6871428571428572
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6885714285714286
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7071428571428572
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6957142857142857
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.71
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7157142857142857
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7228571428571429
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7285714285714285
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7314285714285714
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.73
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7214285714285714
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (3300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7257142857142858
+***** Running evaluation on dev dataset (3400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (3500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (3600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (3700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (3800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (3900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (4000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (4100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (4200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (4300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (4400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (4500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (4600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (4700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (4800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (4900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (5000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (5100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (5200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (5300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (5400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (5500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (5600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (5700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (5800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (5900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (6000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (6100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (6200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (6300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (6400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (6500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (6600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (6700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (6800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (6900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7671428571428571
+***** Running evaluation on dev dataset (7000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (7100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (7200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (7300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (7400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (7500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (7600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7371428571428571
+***** Running evaluation on dev dataset (7700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (7800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (7900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (8000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (8100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7742857142857142
+***** Running evaluation on dev dataset (8200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (8300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (8400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (8500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (8600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (8700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (8800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (8900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (9000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (9100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (9200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (9300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (9400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (9500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (9600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (9700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (9800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (9900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (10000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (10100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (10200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (10300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (10400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (10500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (10600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (10700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (10800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7771428571428571
+***** Running evaluation on dev dataset (10900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (11000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (11100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (11200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (11300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (11400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7757142857142857
+***** Running evaluation on dev dataset (11500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (11600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (11700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (11800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (11900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (12000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (12100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (12200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7742857142857142
+***** Running evaluation on dev dataset (12300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (12400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (12500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7757142857142857
+***** Running evaluation on dev dataset (12600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7757142857142857
+***** Running evaluation on dev dataset (12700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7757142857142857
+***** Running evaluation on dev dataset (12800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+ global_step = 12831, average loss = 0.4611956254125882
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 2
+  learning_rate = 0.000010
+  Gradient Accumulation steps = 1
+  Total optimization steps = 12831
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5042857142857143
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4642857142857143
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5542857142857143
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5557142857142857
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.55
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6371428571428571
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6571428571428571
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.68
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5842857142857143
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6814285714285714
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7071428571428572
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7028571428571428
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7085714285714285
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7071428571428572
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.72
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7285714285714285
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7242857142857143
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6942857142857143
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7314285714285714
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7242857142857143
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7228571428571429
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (3300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (3400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (3500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (3600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (3700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (3800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (3900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (4000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (4100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (4200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (4300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (4400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (4500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (4600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (4700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (4800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7671428571428571
+***** Running evaluation on dev dataset (4900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (5000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (5100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (5200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (5300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (5400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7285714285714285
+***** Running evaluation on dev dataset (5500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (5600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (5700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (5800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7271428571428571
+***** Running evaluation on dev dataset (5900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7271428571428571
+***** Running evaluation on dev dataset (6000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (6100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.73
+***** Running evaluation on dev dataset (6200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7371428571428571
+***** Running evaluation on dev dataset (6300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (6400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (6500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7371428571428571
+***** Running evaluation on dev dataset (6600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (6700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (6800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (6900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (7000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (7100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (7200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (7300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (7400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (7500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (7600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (7700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (7800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (7900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (8000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (8100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (8200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (8300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (8400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (8500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (8600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (8700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7371428571428571
+***** Running evaluation on dev dataset (8800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (8900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.73
+***** Running evaluation on dev dataset (9000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (9100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (9200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (9300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (9400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (9500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (9600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (9700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (9800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (9900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (10000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (10100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (10200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (10300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (10400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (10500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (10600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (10700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (10800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (10900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (11000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (11100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (11200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (11300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (11400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (11500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (11600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (11700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (11800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (11900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (12000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (12100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (12200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (12300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (12400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (12500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (12600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (12700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (12800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+ global_step = 12831, average loss = 0.3360217958406376
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 2
+  learning_rate = 0.000020
+  Gradient Accumulation steps = 1
+  Total optimization steps = 12831
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.47285714285714286
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.55
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.47285714285714286
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5328571428571428
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.47
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (3300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (3400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (3900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (4100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (4200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (4700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (4800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (4900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (5100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (5200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (5800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (5900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (6700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (6900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (7100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (7200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (7300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (7700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (7800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5428571428571428
+***** Running evaluation on dev dataset (7900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5814285714285714
+***** Running evaluation on dev dataset (8000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5028571428571429
+***** Running evaluation on dev dataset (8100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (8500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (8600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (8800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (8900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (9000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (9200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (9500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (9600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (9900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (10000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (10700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (10800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (10900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (11000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (11300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (11700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (11900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (12600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (12700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (12800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+ global_step = 12831, average loss = 0.6955617098488316
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 4
+  learning_rate = 0.000005
+  Gradient Accumulation steps = 1
+  Total optimization steps = 6419
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4785714285714286
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5071428571428571
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5614285714285714
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5028571428571429
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5657142857142857
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5842857142857143
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6028571428571429
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6342857142857142
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6657142857142857
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6742857142857143
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6914285714285714
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7071428571428572
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7114285714285714
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7214285714285714
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.72
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.73
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7242857142857143
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (3300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (3400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (3500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (3600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (3700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (3800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (3900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (4000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (4100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (4200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (4300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (4400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (4500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (4600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (4700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (4800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (4900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7671428571428571
+***** Running evaluation on dev dataset (5000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (5100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (5200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (5300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (5400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (5500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (5600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7671428571428571
+***** Running evaluation on dev dataset (5700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (5800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (5900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (6000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (6100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (6200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (6300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (6400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+ global_step = 6419, average loss = 0.4299949279906596
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 4
+  learning_rate = 0.000010
+  Gradient Accumulation steps = 1
+  Total optimization steps = 6419
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4642857142857143
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5271428571428571
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5371428571428571
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5742857142857143
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6142857142857143
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6542857142857142
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6857142857142857
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7028571428571428
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7271428571428571
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7257142857142858
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.71
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7671428571428571
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (3300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (3400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (3500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (3600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (3700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (3800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7742857142857142
+***** Running evaluation on dev dataset (3900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7771428571428571
+***** Running evaluation on dev dataset (4000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (4100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (4200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (4300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (4400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (4500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7814285714285715
+***** Running evaluation on dev dataset (4600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (4700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (4800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (4900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (5000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (5100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (5200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (5300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (5400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (5500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (5600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+***** Running evaluation on dev dataset (5700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (5800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7742857142857142
+***** Running evaluation on dev dataset (5900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (6000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7757142857142857
+***** Running evaluation on dev dataset (6100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (6200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (6300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (6400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7714285714285715
+ global_step = 6419, average loss = 0.32449442361527137
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 4
+  learning_rate = 0.000020
+  Gradient Accumulation steps = 1
+  Total optimization steps = 6419
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5314285714285715
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5314285714285715
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.47285714285714286
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4657142857142857
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5914285714285714
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5642857142857143
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5914285714285714
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6328571428571429
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6485714285714286
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6642857142857143
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.69
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7157142857142857
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.72
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.73
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7157142857142857
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7371428571428571
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7314285714285714
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7185714285714285
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7257142857142858
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7314285714285714
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (3300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7314285714285714
+***** Running evaluation on dev dataset (3400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (3500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (3600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (3700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (3800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (3900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (4000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7371428571428571
+***** Running evaluation on dev dataset (4100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7285714285714285
+***** Running evaluation on dev dataset (4200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (4300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (4400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (4500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (4600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7328571428571429
+***** Running evaluation on dev dataset (4700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7271428571428571
+***** Running evaluation on dev dataset (4800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (4900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (5000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (5100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (5200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (5300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (5400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (5500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7428571428571429
+***** Running evaluation on dev dataset (5600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (5700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (5800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (5900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (6000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (6100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (6200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (6300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (6400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+ global_step = 6419, average loss = 0.3202342329262041
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 8
+  learning_rate = 0.000005
+  Gradient Accumulation steps = 1
+  Total optimization steps = 3213
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.46285714285714286
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5042857142857143
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5557142857142857
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5242857142857142
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5828571428571429
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.58
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6357142857142857
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6585714285714286
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6757142857142857
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6857142857142857
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6957142857142857
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.71
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7228571428571429
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.71
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7071428571428572
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7042857142857143
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7371428571428571
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.75
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7342857142857143
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7385714285714285
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.74
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7414285714285714
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7485714285714286
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7471428571428571
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+ global_step = 3213, average loss = 0.45109477348410004
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 8
+  learning_rate = 0.000010
+  Gradient Accumulation steps = 1
+  Total optimization steps = 3213
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.49
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5342857142857143
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.4642857142857143
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5985714285714285
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.66
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6885714285714286
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.6928571428571428
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7285714285714285
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7442857142857143
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7457142857142857
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7314285714285714
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7671428571428571
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7728571428571429
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7628571428571429
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7671428571428571
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.77
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+ global_step = 3213, average loss = 0.3286193315473951
+***** Running training *****
+  Num examples = 3665
+  Num Epochs = 7
+  Total train batch size = 8
+  learning_rate = 0.000020
+  Gradient Accumulation steps = 1
+  Total optimization steps = 3213
+  Logging steps = 100
+  Save steps = 100
+***** Running evaluation on dev dataset (100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.49857142857142855
+***** Running evaluation on dev dataset (200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.5471428571428572
+***** Running evaluation on dev dataset (300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.46714285714285714
+***** Running evaluation on dev dataset (400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7042857142857143
+***** Running evaluation on dev dataset (500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7228571428571429
+***** Running evaluation on dev dataset (600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7142857142857143
+***** Running evaluation on dev dataset (700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7285714285714285
+***** Running evaluation on dev dataset (800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7357142857142858
+***** Running evaluation on dev dataset (900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7685714285714286
+***** Running evaluation on dev dataset (1000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (1100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7528571428571429
+***** Running evaluation on dev dataset (1200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (1300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (1400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (1500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (1600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (1700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (1800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7671428571428571
+***** Running evaluation on dev dataset (1900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7642857142857142
+***** Running evaluation on dev dataset (2000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (2100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7514285714285714
+***** Running evaluation on dev dataset (2200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (2300 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7557142857142857
+***** Running evaluation on dev dataset (2400 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (2500 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (2600 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.76
+***** Running evaluation on dev dataset (2700 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7657142857142857
+***** Running evaluation on dev dataset (2800 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7614285714285715
+***** Running evaluation on dev dataset (2900 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+***** Running evaluation on dev dataset (3000 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7542857142857143
+***** Running evaluation on dev dataset (3100 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7571428571428571
+***** Running evaluation on dev dataset (3200 step) *****
+***** Eval results on dev dataset *****
+  acc = 0.7585714285714286
+ global_step = 3213, average loss = 0.2449826092329621
